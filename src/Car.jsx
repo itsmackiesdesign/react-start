@@ -8,7 +8,7 @@ const Car = ({ name, age }) => {
     }
     
     const sayHello = carName => {
-        alert("Hello, " + carName)
+        alert("Salom, " + carName)
     }
 
     return (
